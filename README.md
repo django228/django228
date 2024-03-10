@@ -17,10 +17,10 @@
 <li>
 <b>Hobbys:</b> Programming & Music Editing
 </li>
-<br>
+<br><br>
 </div>
 <div>
-<h2 align="center">   Main Skills 📇  </h2>
+<h2 align="center">           Main Skills 📇  </h2>
  <br>
 <p>
   <div align="center">
