@@ -3,7 +3,7 @@
 <div>
 <h2 align="center"> 🦊 About 🦊 </h2>
   <div align="center">
-<img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
+<img src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" height="165px" align="right">
   </div>
 <li>
  <b>Name:</b>Budimir</li>
