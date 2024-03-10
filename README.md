@@ -17,9 +17,10 @@
 <li>
 <b>Hobbys:</b> Programming & Music Editing
 </li>
-<br>
-  ### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
-  <br>
+
+### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
+
+<br><br>
 </div>
 <div>
 <h2 align="center">           Main Skills 📇  </h2>
