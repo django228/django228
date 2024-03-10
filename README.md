@@ -20,7 +20,7 @@
 <br>
 </div>
 <div>
-<h2 align="center">Main Skills 📇</h2>
+<h2 align="center">   Main Skills 📇  </h2>
  <br>
 <p>
   <div align="center">
