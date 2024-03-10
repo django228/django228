@@ -2,11 +2,12 @@
 
 <div>
 <h2 align="center"> 🦊 About 🦊 </h2>
+  <br>
   <div align="center">
 <img src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" height="165px" align="right">
   </div>
 <li>
- <b>Name:</b>Budimir</li>
+ <b>Name:</b> Budimir </li>
 <li>
 <b>Loves:</b> programming, anime, FPS, music, sport
 </li>
