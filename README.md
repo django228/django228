@@ -7,14 +7,17 @@
 <img src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" height="165px" align="right">
   </div>
 <li>
- <b>Name:</b> Budimir </li>
+ <b>Name:</b> Budimir 
+</li>
+<li>
+ <b>The 1st year of Software Engineering</b>  
 <li>
 <b>Loves:</b> programming, anime, FPS, music, sport
 </li>
 <li>
 <b>Hobbys:</b> Programming & Music Editing
 </li>
-<br><br><br>
+<br>
 </div>
 <div>
 <h2 align="center">Main Skills 📇</h2>
