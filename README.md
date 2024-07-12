@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=80F7C4&random=false&width=435&lines=Hi%2C+I'm+django)](https://git.io/typing-svg)
 
 <div>
-<h2 align="center"> 🦊 About 🦊 </h2>
+<h2 align="center">  About  </h2>
   <br>
   <div align="center">
 <img src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" height="165px" align="right">
