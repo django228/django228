@@ -10,7 +10,7 @@
  <b>Name:</b> Budimir 
 </li>
 <li>
- <b>The 1st year of Software Engineering</b>  
+ <b>The 2st year of Software Engineering</b>  
 <li>
 <b>Loves:</b> programming, anime, FPS, music, sport
 </li>
