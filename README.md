@@ -19,7 +19,7 @@
 </li>
 
 ### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
-### ![](https://thunderskill.com/en/stat/Lucky_Groll/export/json)
+<a href="https://thunderskill.com/en/stat/Lucky_Groll" target="_blank"><img src="https://thunderskill.com/userbars/l/u/Lucky_Groll/en-1-combined-r.png"></a>
 <br><br>
 </div>
 <div>
