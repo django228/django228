@@ -19,7 +19,7 @@
 </li>
 
 ### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
-
+### ![](https://thunderskill.com/en/stat/Lucky_Groll/export/json)
 <br><br>
 </div>
 <div>
@@ -33,8 +33,7 @@
 </div>
 <div>
   <br>
-
-![](https://thunderskill.com/en/stat/Lucky_Groll/export/json)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=django228&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=django228&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=django228&theme=aura)
