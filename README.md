@@ -12,7 +12,6 @@
 <li>
  <b>The 2st year of Software Engineering</b>  
 <li>
-<b>I'm an software engineer from Russia</b>
 
 ### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
 
