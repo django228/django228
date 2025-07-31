@@ -31,8 +31,6 @@
 <div>
   <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=django228&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=django228&theme=aura)
