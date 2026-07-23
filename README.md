@@ -54,12 +54,3 @@
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
----
-
-<h2 align="center">Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=django228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=django228&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
