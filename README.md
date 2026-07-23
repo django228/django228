@@ -33,8 +33,3 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=django228&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=django228&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=django228&theme=aura)
-
-
