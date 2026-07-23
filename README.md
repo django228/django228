@@ -8,7 +8,7 @@
 </div>
 
 <li><b>Name:</b> Budimir</li>
-<li><b>3rd year of Software Engineering @ ITMO University</b></li>
+<li><b>4th year of Software Engineering @ ITMO University</b></li>
 <li><b>Frontend Developer @ T-Bank</b></li>
 
 [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
