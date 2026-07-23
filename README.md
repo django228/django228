@@ -19,17 +19,4 @@
 
 <br><br>
 </div>
-<div>
-<h2 align="center">           Main Skills 📇  </h2>
- <br>
-<p>
-  <div align="center">
-
-<img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
-  </div>
-</div>
-<div>
-  <br>
-
-<br>
 
